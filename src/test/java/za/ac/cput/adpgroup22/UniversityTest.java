@@ -22,7 +22,7 @@ import org.junit.jupiter.api.Timeout;
 public class UniversityTest {
     
     private University Student1;
-    private University Student2;
+    private University Student2; 
     private University Student3;
 
     @BeforeEach

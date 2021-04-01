@@ -12,7 +12,7 @@ package za.ac.cput.adpgroup22;
 public class University {
     
      private String StudentName;
-    private String StudentCourse;
+    private String StudentCourse; 
     private String Balance;
 
    
