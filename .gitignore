@@ -1,3 +1,5 @@
 # Files and folders to be ignored by GIT.
-/nbproject/
+
 /target/
+/nbproject/
+nbactions.xml
